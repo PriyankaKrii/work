@@ -1,6 +1,6 @@
 // Your First Program
 
-class Wrk {
+class Test {
     public static void main(String[] args) {
         System.out.println("World!");
     }
